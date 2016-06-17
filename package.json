@@ -1,0 +1,30 @@
+{
+  "name": "test-stub",
+  "version": "0.0.1",
+  "description": "Test stub generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madbence/node-test-stub.git"
+  },
+  "keywords": [
+    "test",
+    "stub",
+    "mock",
+    "dummy",
+    "double",
+    "tdd"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "Bence Dányi <bence@danyi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madbence/node-test-stub/issues"
+  },
+  "homepage": "https://github.com/madbence/node-test-stub#readme"
+}
